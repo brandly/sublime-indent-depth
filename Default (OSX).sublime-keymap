@@ -1,0 +1,12 @@
+[
+    {
+        "keys": ["super+shift+2"],
+        "command": "indent_depth",
+        "args": {"depth": 2}
+    },
+    {
+        "keys": ["super+shift+4"],
+        "command": "indent_depth",
+        "args": {"depth": 4}
+    }
+]
